@@ -14,19 +14,30 @@ body {
 }
 
 .sidebar {
+  text-align: center;
   width: 3%;
   background-color: #ffffff;
-  border: 2px solid red;
+}
+
+.sidebar img {
+  width: 50%;
+  padding-top: 40%;
+  margin: 10%;
+}
+
+.sidebar hr {
+  width: 60%;
+  height: 1px;
+  background-color: #2d4c6a;
+  margin-bottom: 30%;
 }
 
 .navbar {
   width: 12%;
   background-color: #e3e4e4;
-  border: 2px solid blue;
 }
 
 .main {
   width: 85%;
   background-color: #ffffff;
-  border: 2px solid green;
 }
