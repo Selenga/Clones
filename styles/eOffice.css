@@ -1,0 +1,32 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.navbar {
+  width: 3%;
+  background-color: #ffffff;
+  border: 2px solid red;
+}
+
+.sidebar {
+  width: 12%;
+  background-color: #e3e4e4;
+  border: 2px solid blue;
+}
+
+.main {
+  width: 85%;
+  background-color: #ffffff;
+  border: 2px solid green;
+}
