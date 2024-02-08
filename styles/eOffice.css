@@ -13,13 +13,13 @@ body {
   width: 100%;
 }
 
-.navbar {
+.sidebar {
   width: 3%;
   background-color: #ffffff;
   border: 2px solid red;
 }
 
-.sidebar {
+.navbar {
   width: 12%;
   background-color: #e3e4e4;
   border: 2px solid blue;
